@@ -1,0 +1,8 @@
+{
+  "port": 9000,
+  "mongodb":{ 
+    "database": "sample_database",
+    "host": "localhost",
+    "port": 27017
+  }
+}

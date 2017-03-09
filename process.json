@@ -1,0 +1,8 @@
+
+{
+	"apps": [
+	{
+		"name":"Express Socketio Framework: 9000",
+		"script": "bin/www"
+	}]
+}
